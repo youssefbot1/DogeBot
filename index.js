@@ -1,4 +1,4 @@
-// Script by Xeon 
+// Script by Youssef 
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
 // ©Xeon Bot Incorporated
 const {
@@ -139,9 +139,9 @@ nopref = true
 numbernye = '0'
 autoketik = false;
 prefixStatus = false;
-targetpc = "916909137213"; 
-owner = "916909137213"; 
-fakeyoi = "Xeon"; 
+targetpc = "447451220563"; 
+owner = "447451220563"; 
+fakeyoi = "Youssef"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
