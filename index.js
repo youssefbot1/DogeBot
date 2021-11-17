@@ -1,6 +1,6 @@
 // Script by Youssef 
-// 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
-// ©Xeon Bot Incorporated
+// Youssef-Bot
+// © Youssef-Bot Incorporated
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -6486,8 +6486,8 @@ xeon.sendMessage(from, stdout, text, term)
     if (isGroup && budy != undefined) {
     } else {
       console.log(
-        color("[Doge Bot]", "red"),
-        "𝐃𝐨𝐠𝐞 𝐁𝐨𝐭",
+        color("[Youssef-Bot]", "red"),
+        "Youssef-Bot",
         color(sender.split("@")[0])
       );
     }
